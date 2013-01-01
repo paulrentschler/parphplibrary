@@ -1,0 +1,5 @@
+syntax: glob
+*.php.local
+.buildpath
+.project
+.settings*
